@@ -5,8 +5,11 @@ nav{
     align-items: center;
     background-color: transparent;
 }
-nav header h1{
+nav header{
     font-size: 1.8rem;
+}
+nav header span{
+    color: var(--myGreen)
 }
 nav ul{
     display: flex;
